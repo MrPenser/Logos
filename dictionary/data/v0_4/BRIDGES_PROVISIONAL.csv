@@ -1,0 +1,19 @@
+alpha_rank,word,bridge_class,wordnet_pos_direct,path_and_component_gain,review_status
+703,re,TECHNICAL_SHORT_BRIDGE,N,re>are>care [LL]; component_gain=red,PROVISIONAL
+868,hi,TECHNICAL_SHORT_BRIDGE,N,i>hi>him [LR]; component_gain=him,PROVISIONAL
+1321,sit,PRIMARY_BRIDGE,V,i>it>sit [RL]; component_gain=site,PROVISIONAL
+1628,aid,PRIMARY_BRIDGE,N|V,i>id>aid>said [RLL]; component_gain=said,PROVISIONAL
+1894,ad,TECHNICAL_SHORT_BRIDGE,N|ADV,a>ad>had [RL]; component_gain=bad|had,PROVISIONAL
+1920,mad,PRIMARY_BRIDGE,ADJ,a>ad>mad>made [RLR]; component_gain=made,PROVISIONAL
+2073,lay,PRIMARY_BRIDGE,N|V|ADJ,a>la>lay [LR]; component_gain=play,PROVISIONAL
+2327,ma,TECHNICAL_SHORT_BRIDGE,N,a>ma>may [LR]; component_gain=may,PROVISIONAL
+2458,don,PRIMARY_BRIDGE,N|V,on>don>done [LR]; component_gain=do,PROVISIONAL
+2595,sing,PRIMARY_BRIDGE,V,in>sin>sing>using [LRL]; component_gain=using,PROVISIONAL
+2660,hat,PRIMARY_BRIDGE,N|V,a>at>hat [RL]; component_gain=what|that,PROVISIONAL
+2779,id,TECHNICAL_SHORT_BRIDGE,N,i>id>did [RL]; component_gain=did,PROVISIONAL
+3052,sin,OPTIONAL_BRIDGE,N|V,in>sin>sing>using [LRL]; component_gain=using,PROVISIONAL
+3736,pa,TECHNICAL_SHORT_BRIDGE,N,a>pa>pay [LR]; component_gain=pay,PROVISIONAL
+3865,min,OPTIONAL_BRIDGE,N,in>min>mind [LR]; component_gain=mind,PROVISIONAL
+4011,ate,OPTIONAL_BRIDGE,N,a>at>ate [RR]; component_gain=late,PROVISIONAL
+4644,mall,OPTIONAL_BRIDGE,N,all>mall>small [LL]; component_gain=small,PROVISIONAL
+4784,fa,TECHNICAL_SHORT_BRIDGE,N,a>fa>far [LR]; component_gain=far,PROVISIONAL
