@@ -43,3 +43,44 @@
 - v0.3.1 and all commonWords-based cores are superseded for current work.
 - current frequency ordering still uses the wordfreq-en-25000 research export; production licensing/compliance remains OPEN.
 - next gate: PPP audit of v0.4, then production frequency-source decision, then freeze Target500 v1.0 and lesson ordering.
+
+## UPDATE — 2026-09-28 — CONSCIOUS LEARNING CYCLE + SATOR
+
+Status: `CANONICAL PROJECT WORKING MODEL / RESEARCH HYPOTHESIS`
+
+Fixed four-function model for conscious, purposeful education:
+
+`INTENT -> MATRYOSHKA -> SATOR -> VERIFY -> next cycle if required`
+
+- INTENT = explicit learning target.
+- MATRYOSHKA = controlled variation/comparison.
+- SATOR = extraction of a candidate invariant / underlying structure, including contextual invariant extraction.
+- VERIFY = correctness + unseen-context transfer + delayed verification through time.
+
+Boundary:
+- latent/incidental/unconscious learning is outside the current claim;
+- universality is not declared scientifically proven;
+- a genuinely irreducible fifth function reopens the model.
+
+Time model:
+- time is not a fifth function;
+- learner profile may record `t_I, t_M, t_S, t_V, N` plus spacing/verification schedule;
+- transition between functions is criterion-gated, not clock-gated.
+
+Human representation:
+- canonical mnemonic = clockwise circular learning dial;
+- learner-specific arc lengths may represent different time/effort per function;
+- the circle is a human visualization, not a required machine data format.
+
+SATOR/VERIFY boundary:
+- contextual SATOR infers an invariant from the comparison set;
+- contextual VERIFY challenges it on held-out/new contexts and later time points.
+
+Cross-project note:
+- SATOR/LOGOS may be used as a research lens for future ASTRADELIA autonomous knowledge formation;
+- no ASTRADELIA runtime block or production architecture change is authorized by this LOGOS decision.
+
+Canonical files:
+- `architecture/conscious-learning-cycle.md`
+- `architecture/SATOR.md`
+- `architecture/learning-chain.md`
